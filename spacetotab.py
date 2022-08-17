@@ -1,7 +1,7 @@
 import pandas as pd
-arq = open('C:\\Users\\lucasf\\Desktop\\novo 1.txt','r')
+arq = open('C:\\Users\\lucasf\\Desktop\\arquivoInicial.txt','r')
 vet = []
 for i in arq:
     vet.append(i.split())
 df = pd.DataFrame(vet2)
-df.to_csv('C:\\Users\\lucasf\\Desktop\\novo 2.txt', sep='\t', index=False, header=0)
+df.to_csv('C:\\Users\\lucasf\\Desktop\\arquivoFinal.txt', sep='\t', index=False, header=0)

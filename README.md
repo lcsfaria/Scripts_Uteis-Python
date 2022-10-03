@@ -9,7 +9,7 @@ Para evitar isso, o scripit lê linha a linha, faz um split por qualquer tamanho
 
 # merge_with_intersection.py
 
-Cria um arquivo novo baseado na interseçao de outros dois. Ordena pelo Index padrao gerado pelo pandas.
+Cria um arquivo novo baseado na interseçao de outros dois. Ordena pelo Index padrao gerado pelo pandas e a interseção pela(s) coluna(s) que desejamos.
 
 
 É necessário ter a biblioteca pandas previamente instalada.

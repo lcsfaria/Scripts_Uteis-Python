@@ -1,3 +1,7 @@
+"""
+2022
+@author: lucasf
+"""
 import pandas as pd
 arq = open('C:\\Users\\lucasf\\Desktop\\arquivoInicial.txt','r')
 vet = []

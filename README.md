@@ -10,3 +10,6 @@ Para evitar isso, o scripit lê linha a linha, faz um split por qualquer tamanho
 # Merge with intersection
 
 Cria um arquivo novo baseado na interseçao de outros dois. Ordena pelo Index padrao gerado pelo pandas.
+
+
+É necessário ter a biblioteca pandas previamente instalada.

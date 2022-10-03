@@ -16,6 +16,6 @@ Cria um arquivo novo baseado na interseçao de outros dois. Ordena pelo Index pa
 
 # mean_columns.py
 
-Tome um data frame onde o index são os **'ID dos individuos'** e **'Pop'** o a População a qual cada individuos pertence. Para de saber média de cada População, agrupamos os individuos da mesma População e calculamos a média.
+Tome um data frame onde o index são os **'ID dos individuos'** e **'Pop'** a População a qual cada individuo pertence. Para de saber média de cada População, agrupamos os individuos da mesma População e calculamos a média das colunas desejadas.
 
 É necessário ter a biblioteca pandas previamente instalada.

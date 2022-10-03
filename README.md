@@ -1,4 +1,4 @@
-# SpaceToTab (spacetotab.py)
+# spacetotab.py
 
 Troca os espaços em branco por tab
 
@@ -7,14 +7,14 @@ Para evitar isso, o scripit lê linha a linha, faz um split por qualquer tamanho
 
 É necessário ter a biblioteca pandas previamente instalada.
 
-# Merge with intersection (merge_with_intersection.py)
+# merge_with_intersection.py
 
 Cria um arquivo novo baseado na interseçao de outros dois. Ordena pelo Index padrao gerado pelo pandas.
 
 
 É necessário ter a biblioteca pandas previamente instalada.
 
-# Mean columns (mean_columns.py)
+# mean_columns.py
 
 Tome um data frame onde o index são os **'ID dos individuos'** e **'Pop'** o a População a qual cada individuos pertence. Para de saber média de cada População, agrupamos os individuos da mesma População e calculamos a média.
 

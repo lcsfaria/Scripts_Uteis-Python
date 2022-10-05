@@ -1,3 +1,8 @@
+"""
+2022
+@author: lucasf
+"""
+
 import random as rd
 
 alelos = ['a','b','c','d','e']

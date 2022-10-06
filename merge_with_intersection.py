@@ -7,7 +7,7 @@ import pandas as pd
 file1 = pd.read_csv('/home/lucasf/', sep='\t')
 file2 = pd.read_csv('/home/lucasf/', sep='\t')
 
-juntos = pd.merge(file1, file2, on='ID', how='inner')
+juntos = pd.merge(file1, file2, on='ID', how='inner') #em 'on' escolha qual vai ser a coluna de verificar a intersecao, 'how' é para fazer a intersecao
 
 juntos1 = juntos.drop(columns=['Unnamed: 0'])
 

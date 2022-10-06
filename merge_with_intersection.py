@@ -2,6 +2,7 @@
 2022
 @author: lucasf
 """
+import pandas as pd
 
 file1 = pd.read_csv('/home/lucasf/', sep='\t')
 file2 = pd.read_csv('/home/lucasf/', sep='\t')
